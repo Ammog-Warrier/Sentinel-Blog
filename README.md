@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+- This is a straightforward React blog writing page. Note can only be used live by hosting the database.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
